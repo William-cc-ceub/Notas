@@ -40,11 +40,9 @@ Bloco de Notas/
 
 ├── popup.html          HTML da interface do popup 
 
-├── script.js           Lógica do Pomodoro em JavaScript 
+├── script.js           Lógica em JavaScript 
 
 ├── styles.css          Estilos da interface em CSS 
-
-└── README.md           Este arquivo de documentação 
 
 ``` 
 
